@@ -8,7 +8,7 @@
 Aktualnie wprowadzam **na moim sprzęcie do latania obsługę lokomotyw** w symulatorach kolejowych. 
 Efektem tych działań będę się dzielił na tej platformie.
 
-Korzystam z narzędzi AutoHotkey za wskazaniem zawartym w tym linku: http://www.simucheck.com/ToolSet
+Korzystam z narzędzi AutoHotkey za wskazaniem zawartym w tym linku: [SimuCheckToolSet](http://www.simucheck.com/ToolSet)
 
 
 
